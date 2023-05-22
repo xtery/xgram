@@ -16,6 +16,6 @@ setup(name='xgram',
       packages=find_packages(),
       include_package_data=True,
       url='https://github.com/xtery/xgram',
-      install_requires=['colorama','requests==2.22.0'])
+      install_requires=['colorama','requests==2.31.0'])
 
 print('ok')
